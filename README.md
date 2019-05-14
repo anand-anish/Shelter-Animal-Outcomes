@@ -1,4 +1,4 @@
-# Animal-Shelter-Outcomes
+# Shelter Animal Outcomes
 ##### Help Improve Outcomes for Shelter Animals
 ##### Competition Link : https://www.kaggle.com/c/shelter-animal-outcomes/overview
 
